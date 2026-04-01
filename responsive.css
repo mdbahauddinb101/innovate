@@ -1,0 +1,27 @@
+@media (min-width: 320px) and (max-width: 575px) {
+    
+.card-container {
+    position: static;
+    margin-top: 50px;
+  
+}
+
+.text-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    margin: 0 auto;
+}
+
+.icon3 {
+    margin-left: 0px;
+}
+.row {
+    --bs-gutter-x: 0px;
+    
+}
+
+}
