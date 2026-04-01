@@ -23,5 +23,14 @@
     --bs-gutter-x: 0px;
     
 }
+.banner-container {
+    padding-top: 0px;
+
+}
+
+#header {
+    height: auto;
+   
+}
 
 }
