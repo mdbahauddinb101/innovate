@@ -33,4 +33,54 @@
    
 }
 
+
+
+
+/*================ header ends ============*/
+
+/* =============experience starts ===============*/
+#experience {
+    text-align: center;
+}
+.vector-1 {
+  display: none;
+}
+.vector-2 {
+  display: none;
+}
+.vector-3 {
+   display: none;
+}
+.experience-wrapper .exp-img {
+
+    position: static;
+    width: 100%;
+
+}
+
+
+.right-part {
+    height: 626px;
+    background-color: rgba(251, 243, 240, .8);
+    position: static;
+    width: 100%;
+    padding: 0px;
+}
+
+.right-part h2 {
+width: 100%;
+}
+
+.right-part p {
+    width: 100%;
+
+}
+
+#experience .container h1 {
+    max-width: 100%;
+    margin-bottom: 0px;
+}
+
+/*============= experience ends=================== */
+
 }
