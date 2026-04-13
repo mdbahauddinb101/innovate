@@ -5,6 +5,11 @@
     margin-top: 50px;
   
 }
+.banner-container h1 {
+    color: #55575a;
+
+}
+
 
 .text-align {
     display: flex;
