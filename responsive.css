@@ -30,6 +30,7 @@
 
 #header {
     height: auto;
+    margin-bottom: 25px;
    
 }
 
@@ -82,5 +83,81 @@ width: 100%;
 }
 
 /*============= experience ends=================== */
+
+/* ===============counting starts=============== */
+.saper-image {
+    display: none;
+}
+.cross-image {
+ display: none;
+}
+
+#counting {
+    margin-top: 630px;
+
+}
+
+.counting-nav-container {
+ flex-direction: column;
+
+}
+
+.counting-nav-container h2 {
+    width: 100%;
+   
+
+}
+
+.text-wrapper-1 {
+    padding: 10px;
+    width: 100%;
+}
+.col-sm-5 img, .col-sm-7 img{
+    width: 100%;
+}
+
+.container-override {
+    text-align: center;
+}
+
+.btn {
+    margin-bottom: 20px;
+}
+/* counting ends */
+
+/*=============== counting-2 starts =========================*/
+.saper-khela-12 {
+  display: none;
+}
+.saper-khela-13 {
+display: none;
+}
+
+
+.d-flex {
+   flex-direction: column;
+}
+.item-1 {
+    height: auto;
+}
+.item-2 {
+    height: auto;
+}
+
+.left-part-counting-2 {
+    padding: 20px;
+
+}
+.margin-left-part {
+    margin-right: 0px;
+}
+
+.right-part-counting-2 h2 {
+    text-align: center;
+}
+
+#counting-2 {
+    padding-top: 0px;
+}
 
 }
